@@ -1,4 +1,4 @@
-# DP-750 Exam Prep – From Confusion to Certification 🚀  
+# DP-750 Exam Prep From Confusion to Certification 🚀  
 ### Real Notes, Real Practice, Real Results
 
 If you are preparing for the **[DP-750 Exam](https://www.itexamscerts.com): Microsoft Azure Data Engineer** exam, you are probably feeling the pressure complex topics, endless documentation, and uncertainty about what really matters.
@@ -18,7 +18,7 @@ This is not just another collection of random notes. It’s a **focused roadmap*
 ---
 
 ## 🧠 The Reality of DP-750
-Let’s be honest  DP-750 isn’t impossible, but it *will* test how well you understand concepts, not just how much you’ve memorized.
+Let’s be honest  DP-750 is not impossible, but it *will* test how well you understand concepts, not just how much you have memorized.
 
 You’ll face:
 - Scenario-based questions  
@@ -37,13 +37,13 @@ No magic. No shortcuts.
 - Repeated weak areas until they became strengths  
 
 And most importantly…  
-I practiced consistently with **[itexamscerts](https://www.itexamscerts.com/microsoft/dp-750-dumps.html) mock tests**, which helped me get comfortable with the exam pattern and sharpen my decision-making under pressure.
+I practiced consistently with **[itexamscerts](https://www.itexamscerts.com/microsoft/dp-750-dumps.html) mock tests**, which helped me get comfortable with the exam pattern and sharpen my decision making under pressure.
 
 ---
 
 ## 📚 How to Use This Repository
 1. Start with core concepts (dont skip basics)  
-2. Move to hands-on practice  
+2. Move to hands on practice  
 3. Test yourself regularly  
 4. Fix weak areas aggressively  
 
